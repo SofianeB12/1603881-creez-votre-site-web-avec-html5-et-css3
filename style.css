@@ -10,6 +10,7 @@ a {
 }
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 em {
   color: #a5b4fc;
   font-style: normal;
@@ -17,6 +18,11 @@ em {
 .important {
   color: #a5b4fc;
 >>>>>>> 4d277ba (general update)
+=======
+em {
+  color: #a5b4fc;
+  font-style: normal;
+>>>>>>> b212607c966e82f3a9371cc60705adbd99be1bf4
 }
 
 h1 {
@@ -44,6 +50,7 @@ li {
   background: linear-gradient(#8e86b5, #acaeed);
   color: white;
 <<<<<<< HEAD
+<<<<<<< HEAD
   border-radius: 50px;
 }
 
@@ -52,4 +59,6 @@ li {
   border-bottom: 1px solid #8e86b5;
 =======
 >>>>>>> 4d277ba (general update)
+=======
+>>>>>>> b212607c966e82f3a9371cc60705adbd99be1bf4
 }
